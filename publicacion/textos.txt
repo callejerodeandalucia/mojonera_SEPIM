@@ -1,24 +1,37 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA OFICIAL DE LA MOJONERA
 
-DescripciÃ³n completa (4000)
-===========================
 
-Etiquetas	
-===========
+Descripción breve:
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Guía con información de interés del municipio de La Mojonera (Almería).
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
+Descripción completa:
 
-Sitio web
-=========
 
-Correo electrÃ³nico
-==================
+Ahora puedes llevar La Mojonera en tu bolsillo.
+
+Esta aplicación desarrollada por el Ayuntamiento de La Mojonera, pretende ser un canal de información y comunicación entre el ciudadano y la Administración municipal, además de incluir información detallada de la localidad.
+
+A través de la geolocalización, facilita la máxima información de La Mojonera que servirá en la vida cotidiana de sus vecinos, así como a sus visitantes. Este servicio permite moverse por sus calles de forma rápida y ágil, con la localización de servicios, sus teléfonos o enlaces a sus web, en caso de disponer. Taxis, farmacias, centros educativos, instalaciones municipales, transporte público, restaurantes, bares, bancos o lugares de interés, aparecen recogidos. 
+
+La aplicación no sólo indica la ubicación, sino que usando la tecnología GPS del dispositivo, guiará hasta el lugar solicitado, sobre el que se incluyen imágenes de la fachada para una fácil localización. Desde ella también se pueden realizar llamadas telefónicas, enviar correos electrónicos o acceder a las páginas web. 
+
+La aplicación, igualmente, dispone de un servicio ‘Cerca de mí’ que, nuevamente usando el GPS, indica los elementos de interés cercanos al usuario.
+
+La Mojonera se constituyó en el año 1984, al separarse de Felix, un fiel reflejo de lo ocurrido en la comarca del Poniente en las últimas décadas, en las que un sector agrícola pujante, el turismo y los servicios, han concentrado la población en los municipios más cercanos al mar, aunque muchos de ellos tuvieran su origen en los pueblos de la Sierra de Gádor.
+
+La localidad tiene una ubicación estratégica, justo entre los dos grandes municipios de la comarca, Roquetas de Mar y El Ejido, lo que le confiere un enorme potencial para la instalación de proyectos empresariales, que se ve apoyada por sus excelentes comunicaciones. De hecho, en La Mojonera hay una gran cantidad de polígonos industriales que no dejan de crecer, apoyados por esa posición central en el Poniente de Almería.
+
+La Mojonera también tiene lugares de interés que se pueden visitar. El más importante de todos ellos se sitúa en el corazón de la localidad, se trata del Poblado de Colonización, uno de los mejor conservados de toda la provincia y una muestra de la arquitectura de los años 50 y 60 del siglo pasado que todavía mantiene su filosofía original. El conjunto de instalaciones construidas por el Instituto Nacional de Colonización y diseñadas por el arquitecto Manuel Jiménez Varea, incluye la parroquia de Nuestra Señora de La Fuensanta, donde es posible encontrar un retablo de Luis Cañadas, o el propio Ayuntamiento de La Mojonera, que también forma parte de este poblado levantado en su día para atraer colonos de otros puntos e impulsar una agricultura de regadío que se convertiría en poco tiempo en un pujante sector económico fundamental para la provincia de Almería.
+
+Mucho más antiguo es el Aljibe, que con tres siglos de historia, es fruto de su ubicación clave en el paso de las rutas ganaderas,  siendo la construcción más antigua del municipio.
+
+Teniendo en cuenta que su topónimo hace referencia al lugar en el que se ponen los mojones para separar dos términos, se cree que posiblemente La Mojonera servía para separar dos tahas de la época nazarí, la de Dalías y la de Felix. La localidad fue por tanto, terreno fronterizo durante siglos, lo que ha marcado al municipio y sus habitantes, y lo sigue haciendo en la actualidad aprovechando precisamente esa ubicación estratégica.
+
+La ciudad tiene actualmente 8.740 habitantes (INE a 1 de enero de 2017) y una superficie de 24 kilómetros cuadrados, lindando con Roquetas de Mar, El Ejido y Vícar. Su término municipal es atravesado por la Autovía del Mediterráneo A7 y se encuentra a una distancia de poco más de 25 kilómetros de la capital.
+
+Sin duda un lugar de enorme interés con múltiples posibilidades y que ahora, con la nueva APP de la ‘Guía Oficial de La Mojonera’, lo pone mucho más para sacarle todo el jugo a la ciudad.
+
 
